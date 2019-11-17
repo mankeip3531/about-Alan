@@ -2,7 +2,8 @@
 #### Introduction to Alan's life~
 * Name: _Alan Po_  
 * School: _HSTAT_  
-* Bio: **My name is Alan Po and I was born in Hong Kong. I am 16 years old and I am interested in Software Engineering.**  
+* `<Bio>`:   
+> **My name is Alan Po and I was born in Hong Kong. I am 16 years old and I am interested in Software Engineering.**  
 * Favorite Food:
   * Burger  
   * French Fries
